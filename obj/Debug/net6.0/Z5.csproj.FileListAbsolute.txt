@@ -1,0 +1,15 @@
+C:\Users\AREK\source\repos\Z5\Z5\bin\Debug\net6.0\Z5.exe
+C:\Users\AREK\source\repos\Z5\Z5\bin\Debug\net6.0\Z5.deps.json
+C:\Users\AREK\source\repos\Z5\Z5\bin\Debug\net6.0\Z5.runtimeconfig.json
+C:\Users\AREK\source\repos\Z5\Z5\bin\Debug\net6.0\Z5.dll
+C:\Users\AREK\source\repos\Z5\Z5\bin\Debug\net6.0\Z5.pdb
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.csproj.AssemblyReference.cache
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.AssemblyInfoInputs.cache
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.AssemblyInfo.cs
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.csproj.CoreCompileInputs.cache
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.dll
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\refint\Z5.dll
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.pdb
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\Z5.genruntimeconfig.cache
+C:\Users\AREK\source\repos\Z5\Z5\obj\Debug\net6.0\ref\Z5.dll
